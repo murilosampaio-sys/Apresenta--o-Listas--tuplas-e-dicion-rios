@@ -1,4 +1,3 @@
-
 pessoa = {
     "nome": "Ana",
     "idade": 28,
